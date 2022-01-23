@@ -7,7 +7,7 @@
 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 # 20220122更新
-将程序放到合适的文件夹，之后不能改变文件位置
-修改config.json中的账户与密码
-启动start.exe
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+- 将程序放到合适的文件夹，之后不能改变文件位置
+- 修改config.json中的账户与密码
+- 启动start.exe
+- C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
